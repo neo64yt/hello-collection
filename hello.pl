@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 
+# Basically a rickroll
 print "Hello there, my friend!\n";
 print " \n";
 print "NEVER GONNA GIVE YOU UP,\n";
