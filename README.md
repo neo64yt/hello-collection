@@ -1,5 +1,5 @@
 # hello-collection
-Just a collection of the classic "Hello world" (hehehe) program source code files in different programming languages. So far, these languages are available:
+Just a collection of the classic "Hello world" (hehehe) program in different programming languages. So far, these languages are currently available in this repository:
 
 * C
 * Go
@@ -8,7 +8,7 @@ Just a collection of the classic "Hello world" (hehehe) program source code file
 * Python
 
 ## Output of the program
-As all of these files are the source code of the same program, which is "Hello world", it is expected that all of these will output "Hello, world!" to stdout.
+It is expected each of them prints out "Hello, world!" (or something else), despite being different programming languages.
 
 ## Contributions
 Any contributions to improve this project will be welcomed.
