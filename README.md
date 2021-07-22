@@ -8,6 +8,7 @@ Just a collection of the classic "Hello world" (hehehe) program in different pro
 * Perl
 * POSIX shell
 * Python
+* Rust
 
 ## Categories
 There are two types of programming language here:
