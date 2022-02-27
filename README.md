@@ -15,7 +15,8 @@ Just a collection of the classic "Hello world" (hehehe) program in different pro
 
 It is expected each of them prints out "Hello, world!" (or something else), despite being different programming languages.
 
-## List of Git remote URLs of this repository
+## List of URLs of this repository
 
 * [Main (Codeberg)](https://codeberg.org/neo64yt/hello-collection)
-* [Mirror 1 (Github)](https://github.com/neo64yt/hello-collection)
+* [Mirror 1 (GitHub)](https://github.com/neo64yt/hello-collection)
+* [Mirror 2 (GitLab)](https://gitlab.com/neo64yt/hello-collection)
