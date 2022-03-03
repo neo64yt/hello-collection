@@ -1,10 +1,16 @@
-/* Assuming you are using GCC, run "g++ -o hello hello.cpp" in the directory containing this file */
+/* Run `c++ hello.cpp` to compile */
 
 #include <iostream> // Include standard input/output header
 
 /* Basically a rickroll */
-int main() { // main() function
-    std::cout << "Hello there, my friend!\n \nNEVER GONNA GIVE YOU UP,\nNEVER GONNA LET YOU DOWN,\nNEVER GONNA RUN AROUND AND DESERT YOU...\nNEVER GONNA MAKE YOU CRY,\nNEVER GONNA SAY GOODBYE,\nNEVER GONNA TELL A LIE AND HURT YOU... \n"; // This prints out the desired text on your terminal window
+int main(void) { 
+    std::cout << "Hello there, my friend!\n";
+    std::cout << "\nNEVER GONNA GIVE YOU UP,\n";
+    std::cout << "NEVER GONNA LET YOU DOWN,\n";
+    std::cout << "NEVER GONNA RUN AROUND AND DESERT YOU...\n";
+    std::cout << "NEVER GONNA MAKE YOU CRY,\n";
+    std::cout << "NEVER GONNA SAY GOODBYE,\n";
+    std::cout << "NEVER GONNA TELL A LIE AND HURT YOU... \n"; 
     return 0; // Say that the program is successfully executed 
 }
 

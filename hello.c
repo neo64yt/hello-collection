@@ -1,9 +1,9 @@
-/* Assuming you are using GCC, run "gcc -o hello hello.c" inside the directory containing this file */
+/* Run `cc hello.c` to compile */
 
 #include <stdio.h> // Include standard input/output header
 
 /* Basically a rickroll */ 
-int main () { 
+int main (void) { 
 	printf("Hello there, my friend!\n");
     printf("\nNEVER GONNA GIVE YOU UP,\n");
     printf("NEVER GONNA LET YOU DOWN,\n");

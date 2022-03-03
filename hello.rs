@@ -1,5 +1,11 @@
 /* Basically a rickroll */
 fn main() {
-    println!("Hello there, my friend!\n \nNEVER GONNA GIVE YOU UP,\nNEVER GONNA LET YOU DOWN,\nNEVER GONNA RUN AROUND AND DESERT YOU...\nNEVER GONNA MAKE YOU CRY,\nNEVER GONNA SAY GOODBYE,\nNEVER GONNA TELL A LIE AND HURT YOU... \n");
+    println!("Hello there, my friend!\n");
+    println!("\nNEVER GONNA GIVE YOU UP,\n");
+    println!("NEVER GONNA LET YOU DOWN,\n");
+    println!("NEVER GONNA RUN AROUND AND DESERT YOU...\n");
+    println!("NEVER GONNA MAKE YOU CRY,\n");
+    println!("NEVER GONNA SAY GOODBYE,\n");
+    println!("NEVER GONNA TELL A LIE AND HURT YOU... \n");
 }
 

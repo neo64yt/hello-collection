@@ -1,4 +1,10 @@
-#!/bin/python
+#!/usr/bin/python3
 
 # Basically a rickroll
-print("Hello there, my friend!\n \nNEVER GONNA GIVE YOU UP,\nNEVER GONNA LET YOU DOWN,\nNEVER GONNA RUN AROUND AND DESERT YOU...\nNEVER GONNA MAKE YOU CRY,\nNEVER GONNA SAY GOODBYE,\nNEVER GONNA TELL A LIE AND HURT YOU... \n")
+print("Hello there, my friend!\n")
+print("NEVER GONNA GIVE YOU UP,")
+print("NEVER GONNA LET YOU DOWN,")
+print("NEVER GONNA RUN AROUND AND DESERT YOU...")
+print("NEVER GONNA MAKE YOU CRY,")
+print("NEVER GONNA SAY GOODBYE,")
+print("NEVER GONNA TELL A LIE AND HURT YOU...")
